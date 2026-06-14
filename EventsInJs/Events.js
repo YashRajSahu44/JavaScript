@@ -28,3 +28,7 @@ Element.addEventListener('click' , ()=>{
 Element.addEventListener('click' , ()=>{
     Element.style.backgroundColor = "yellow";
 })
+
+// Some other effects : Mousein , MouseOut 
+
+
